@@ -3,7 +3,7 @@ Hi I'm Pavece
 </h1>
 
 <h2 align="center">
-I'm a Full Stack Web Developer
+Full Stack Web Developer
 </h2>
 
 ### Contact me
