@@ -45,6 +45,3 @@ I'm a Full Stack Web Developer
 - React Native
 - Next JS
 
-## :bar_chart: Stats
-
-[![Pavece's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavece&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
