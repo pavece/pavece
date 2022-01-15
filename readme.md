@@ -39,7 +39,7 @@ Full Stack Web Developer
 - Personal Projects
 - Threejs websites
 
-## :star: Currently Im learnig
+## :star: Currently Im learning
 
 - Redis
 - React Native
