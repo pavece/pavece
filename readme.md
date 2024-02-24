@@ -8,17 +8,16 @@ Hi I'm Pavece :wave:
  
 </h3>
 
-## Contact me
- Website: <a href="https://pavece.com">pavece.com</a>
- 
- <a href="https://twitter.com/pavece_dev">
-  
- ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+## :iphone: Contact me
+ * E-mail: pavece@protonmail.com
+ * Twitter (X): [@pavece_dev](https://twitter.com/pavece_dev)
+ * Portfolio: [https://pavece.com](https://pavece.com)
  
 </a>
 
- 
- 
+## :triangular_ruler: Highlighted projects
+* Shader wines: [https://shaderwines.pavece.com/](https://shaderwines.pavece.com/)
+* Vertex gallery: [https://vertexgallery.pavece.com/](https://vertexgallery.pavece.com/)
 
 ## :mortar_board: Skills
 
