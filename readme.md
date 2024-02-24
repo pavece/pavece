@@ -49,7 +49,7 @@ Hi I'm Pavece :wave:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## :computer: Currently Im working on
+## :computer: Currently working on
 
 - Personal Projects
 - Threejs websites
